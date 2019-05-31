@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "material": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "1",
+      "name": "wood",
+      "price": "20",
+      "UOM": "inch"
+    },
+    {
+      "id": "2",
+      "name": "iron",
+      "price": "30",
+      "UOM": "meter"
+    },
+    {
+      "id": "3",
+      "name": "silver",
+      "price": "40",
+      "UOM": "meter"
+    },
+    {
+      "id": "4",
+      "name": "gold",
+      "price": "50",
+      "UOM": "liter"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
